@@ -1,0 +1,8 @@
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\bin\Debug\TimesOfMaltaScrapper.exe
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\bin\Debug\TimesOfMaltaScrapper.pdb
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.Form1.resources
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.Properties.Resources.resources
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.exe
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.pdb
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.csprojResolveAssemblyReference.cache
+C:\Development\Guts\TimesOfMaltaScrapper\TimesOfMaltaScrapper\obj\x86\Debug\TimesOfMaltaScrapper.csproj.GenerateResource.Cache
